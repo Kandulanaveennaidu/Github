@@ -1,0 +1,44 @@
+.flexibleSecureApplication,
+.networking {
+  position: absolute;
+  top: 52px;
+  left: 107px;
+  line-height: 180%;
+  display: inline-block;
+  width: 345px;
+  height: 26px;
+}
+.networking {
+  top: 20px;
+  font-size: var(--heading-h5-24px-semibold-size);
+  line-height: 160%;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: var(--heading-h3-44px-semibold);
+  color: var(--text-bright-grey);
+  width: 186px;
+  height: 30px;
+}
+.card4,
+.icon {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  border-radius: var(--br-base);
+  background-color: var(--background-white);
+  box-shadow: 0 25px 40px rgba(0, 0, 0, 0.05), 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 72px;
+  height: 72px;
+}
+.card4 {
+  top: 375px;
+  left: 307px;
+  border-radius: var(--br-mini);
+  box-shadow: 0 20px 80px rgba(0, 0, 0, 0.03);
+  width: 485px;
+  height: 104px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--text-mid-grey);
+  font-family: var(--font-nunito);
+}
